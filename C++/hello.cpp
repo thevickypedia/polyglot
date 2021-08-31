@@ -1,7 +1,7 @@
 #include <string>
 
 int main() {
-  printf("HelloWorld");
+    printf("HelloWorld");
 }
 
 /*
